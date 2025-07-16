@@ -1,0 +1,21 @@
+{
+  "name": "dark-modern-accessible",
+  "displayName": "Dark Modern Accessible",
+  "description": "An accessible adaptation of the Visual Studio Code \"Dark Modern\" theme, with thoughtful tweaks for better readability and visual comfort.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Modern Accessible",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Modern Accessible-color-theme.json"
+      }
+    ]
+  }
+}
