@@ -1,4 +1,8 @@
 {
     "name": "Dark Modern Accessible",
-    "include": "./dark_modern.json"
+    "include": "./dark_modern.json",
+    "colors": {
+        "editor.findMatchBorder": "#D28D04",
+        "editor.findMatchHighlightBorder": "#8B481E"
+    }
 }
