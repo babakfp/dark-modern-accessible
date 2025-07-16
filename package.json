@@ -14,7 +14,7 @@
             {
                 "label": "Dark Modern Accessible",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dark Modern Accessible-color-theme.json"
+                "path": "./themes/dark-modern-accessible-color-theme.json"
             }
         ]
     }
