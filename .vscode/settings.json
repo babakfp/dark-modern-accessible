@@ -1,0 +1,7 @@
+{
+    "files.readonlyInclude": {
+        "**/themes/dark_modern.json": true,
+        "**/themes/dark_plus.json": true,
+        "**/themes/dark_vs.json": true
+    }
+}
