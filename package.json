@@ -3,6 +3,12 @@
     "displayName": "Dark Modern Accessible",
     "description": "An accessible adaptation of the Visual Studio Code \"Dark Modern\" theme, with thoughtful tweaks for better readability and visual comfort.",
     "version": "0.0.1",
+    "license": "MIT",
+    "publisher": "babakfp",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/babakfp/dark-modern-accessible"
+    },
     "engines": {
         "vscode": "^1.102.0"
     },
