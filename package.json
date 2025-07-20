@@ -24,7 +24,7 @@
             }
         ]
     },
-    "icon": "res/icon.png",
+    "icon": "./icon.png",
     "scripts": {
         "fmt": "prettier -w .",
         "package": "vsce package"
