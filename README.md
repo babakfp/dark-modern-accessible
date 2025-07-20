@@ -2,9 +2,10 @@
 
 An accessible adaptation of the Visual Studio Code "Dark Modern" theme, with thoughtful tweaks for better readability and visual comfort.
 
-## How to use
+## Installation
 
-1. Download the repository as a ZIP file.
-2. Extract the ZIP file to a folder on your computer.
-3. Rename the folder to add the version number to the end of the folder name, e.g. `dark-modern-accessible-0.0.1`.
-4. Move the folder to the `C:\Users\<USERNAME>\.vscode\extensions` folder.
+1. Download the `.vsix` file from the [latest release](https://github.com/babakfp/dark-modern-accessible/releases/latest).
+2. Open the Extensions view in VS Code.
+3. Click the three-dot menu (⋮) in the top-right corner and select **"Install from VSIX..."**.
+4. Browse to and select the `.vsix` file you downloaded.
+5. VS Code will install the theme automatically. You're all set!
