@@ -23,5 +23,14 @@
                 "path": "./themes/dark-modern-accessible-color-theme.json"
             }
         ]
+    },
+    "icon": "res/icon.png",
+    "scripts": {
+        "fmt": "prettier -w .",
+        "package": "vsce package"
+    },
+    "devDependencies": {
+        "@vscode/vsce": "3.6.0",
+        "prettier": "3.6.2"
     }
 }
