@@ -9,6 +9,8 @@
         "type": "git",
         "url": "https://github.com/babakfp/dark-modern-accessible"
     },
+    "homepage": "https://github.com/babakfp/dark-modern-accessible",
+    "bugs": "https://github.com/babakfp/dark-modern-accessible/issues",
     "engines": {
         "vscode": "^1.102.0"
     },
